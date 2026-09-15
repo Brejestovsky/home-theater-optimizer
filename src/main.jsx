@@ -1,0 +1,1 @@
+import React from "react"; import ReactDOM from "react-dom/client"; import HomeTheaterPlanner from "./components/HomeTheaterPlanner.jsx"; import "./index.css"; ReactDOM.createRoot(document.getElementById("root")).render( <React.StrictMode> <HomeTheaterPlanner /> </React.StrictMode> );
